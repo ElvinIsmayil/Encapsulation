@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
@@ -11,7 +12,7 @@ namespace Encapsulation.Models
 {
     public class Gallery
     {
-        private int _id = 1000;
+        private int _id = 1001;
         public int GalleryId { get; set; }
         public string Name { get; set; }
 
@@ -34,8 +35,8 @@ namespace Encapsulation.Models
 
         public void AddCar(string name, double speed)
         {
-            
-            Car car = new Car(_id++,name, speed);
+
+            Car car = new Car(_id++, name, speed);
 
             Array.Resize(ref Cars, Cars.Length + 1);
             Cars[^1] = car;
@@ -43,54 +44,65 @@ namespace Encapsulation.Models
         }
 
 
-        
+
 
         public void ShowAllCars()
         {
             foreach (Car car in Cars)
             {
 
-                Console.WriteLine($"Id: {car.Id}  Name: {car.Name}  Speed: {car.Speed}  ");
+                Console.WriteLine($"Id: {car.Id}  Name: {car.Name}  Speed: {car.Speed}  CarCode: {car.CarCode}");
 
             }
         }
 
+        public Car[] GetAllCars()
+        {
+            return Cars;
+            
+        }
 
 
-        public void FindCarById(int id)
+        public Car FindCarById(int id)
         {
             foreach (Car car in Cars)
             {
                 if (car.Id == id)
                 {
-                    Console.WriteLine(car.Name);
+                    return car;
                 }
             }
+            return null;
         }
 
 
-        public void FindCarbyCarCode(string code)
+        public Car FindCarbyCarCode(string code)
         {
             foreach (Car car in Cars)
             {
                 if (car.CarCode == code)
                 {
-                    Console.WriteLine(car.Name);
+                    return car;
                 }
             }
-
+            return null;
         }
 
 
-        public void FindCarsBySpeedInterval(double minSpeed, double maxSpeed)
+        public Car[] FindCarsBySpeedInterval(double minSpeed, double maxSpeed)
         {
+            Car[] wantedCars = Array.Empty<Car>();
             foreach (Car car in Cars)
             {
                 if (minSpeed <= car.Speed && car.Speed <= maxSpeed)
                 {
-                    Console.WriteLine(car.Name);
+                    Array.Resize(ref wantedCars, wantedCars.Length + 1);
+                    wantedCars[wantedCars.Length - 1] = car;
                 }
+                
             }
+            
+            return wantedCars;
         }
 
 

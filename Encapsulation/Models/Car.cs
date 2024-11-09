@@ -18,29 +18,23 @@ namespace Encapsulation.Models
 
         public string CarCode;
 
-        public Car()
-        {
-            
-        }
+        
 
-        public Car(string name,double speed)
+        public Car(string name, double speed)
         {
             Name = name;
             Speed = speed;
             CarCode = Name.Substring(0, 2).ToUpper() + Id;
 
         }
-        public Car(int id,string name, double speed) :this(name,speed)
+        public Car(int id, string name, double speed) : this(name, speed)
         {
             Id = id;
             CarCode = Name.Substring(0, 2).ToUpper() + Id;
 
         }
 
-            //for (int i = 0; i < ; i++)
-            //{
-            //    Cars[i].Id += i;
-            //}
+        
 
         public void ShowFullData()
         {

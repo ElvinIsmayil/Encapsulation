@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywOjxm5nfwWnQjzuO8oyqfOWFmTZD8H2VkYdD4G8YnzhquK1cBJFl98vPAR0ZRqW60rUIdLlwes61K2l7QhzCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation2\\Encapsulation2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Elvin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

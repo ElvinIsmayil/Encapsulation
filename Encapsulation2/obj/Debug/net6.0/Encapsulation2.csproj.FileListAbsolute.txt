@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\bin\Debug\net6.0\Encapsulation2.exe
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\bin\Debug\net6.0\Encapsulation2.deps.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\bin\Debug\net6.0\Encapsulation2.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\bin\Debug\net6.0\Encapsulation2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\bin\Debug\net6.0\Encapsulation2.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\refint\Encapsulation2.dll
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.pdb
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\Encapsulation2.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console Apps\Encapsulation\Encapsulation2\obj\Debug\net6.0\ref\Encapsulation2.dll

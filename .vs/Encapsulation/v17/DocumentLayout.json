@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\",
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DA3B1F01-8543-4088-8DD4-2F8C30138042}|Encapsulation2\\Encapsulation2.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\encapsulation\\encapsulation2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3B1F01-8543-4088-8DD4-2F8C30138042}|Encapsulation2\\Encapsulation2.csproj|solutionrelative:encapsulation2\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console\\encapsulation\\encapsulation\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\encapsulation\\encapsulation\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\encapsulation\\encapsulation\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console\\encapsulation\\encapsulation\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\models\\gallery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC26DD3C-305C-473D-A574-4092F3697E11}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA3B1F01-8543-4088-8DD4-2F8C30138042}|Encapsulation2\\Encapsulation2.csproj|c:\\users\\elvin\\desktop\\c#\\console apps\\encapsulation\\encapsulation2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA3B1F01-8543-4088-8DD4-2F8C30138042}|Encapsulation2\\Encapsulation2.csproj|solutionrelative:encapsulation2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,41 +35,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Models\\Car.cs",
-              "RelativeToolTip": "Encapsulation\\Models\\Car.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvx0AAAA6AAAA",
+              "Title": "Gallery.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Models\\Gallery.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Models\\Gallery.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Models\\Gallery.cs",
+              "RelativeToolTip": "Encapsulation\\Models\\Gallery.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA4AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:29:54.889Z",
+              "WhenOpened": "2024-11-09T21:59:24.558Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Gallery.cs",
-              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Models\\Gallery.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Models\\Gallery.cs",
-              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Models\\Gallery.cs",
-              "RelativeToolTip": "Encapsulation\\Models\\Gallery.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAvwC0AAAAIAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Models\\Car.cs",
+              "RelativeToolTip": "Encapsulation\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:32:55.875Z",
+              "WhenOpened": "2024-11-09T21:59:08.919Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Program.cs",
-              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
-              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Encapsulation\\Encapsulation\\Program.cs",
-              "RelativeToolTip": "Encapsulation\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation2\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Encapsulation2\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation2\\Models\\Book.cs",
+              "RelativeToolTip": "Encapsulation2\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T10:29:06.373Z",
+              "WhenOpened": "2024-11-09T23:40:49.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Encapsulation2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation2\\Models\\Product.cs",
+              "RelativeToolTip": "Encapsulation2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T23:18:24.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console Apps\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:01:16.135Z",
               "EditorCaption": ""
             }
           ]

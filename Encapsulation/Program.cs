@@ -7,37 +7,64 @@ namespace Encapsulation
         static void Main(string[] args)
         {
 
-            Car car1 = new Car("Mercedes", 100);
-
-            car1.ShowFullData();
-
-            Car car2 = new Car("Bmw", 80);
-
-            car2.ShowFullData();
-
-            Car car3 = new Car("Audi", 150);
-
-            car3.ShowFullData();
-
             Gallery gallery = new Gallery();
 
-            gallery.AddCar("audi", 200);
-            gallery.AddCar("bmw", 100);
-            gallery.AddCar("gmw", 600);
-
-            gallery.AddCar("smw", 500);
-            gallery.AddCar("emw", 400);
+            gallery.AddCar("Audi", 200);
+            gallery.AddCar("Bmw", 100);
+            gallery.AddCar("Mercedes", 50);
 
             gallery.ShowAllCars();
-
-            //gallery.AddCar(car1);
-            //gallery.AddCar(car2);
-            //gallery.AddCar(car3);
-
-
-
-            //gallery.ShowAllCars();
             
+
+            Car[] allCars = gallery.GetAllCars();
+
+            foreach (var car in allCars)
+            {
+                Console.WriteLine($"Id: {car.Id} Name: {car.Name} Speed: {car.Speed} CarCode: {car.CarCode}");
+
+            }
+
+            Car wantedCar = gallery.FindCarById(1001);
+
+            if (wantedCar != null )
+            {
+                Console.WriteLine(wantedCar.Name);
+            }
+            else
+            {
+                Console.WriteLine("There is no such car which meets Id requirement!");
+            }
+
+            Car wantedCar2 = gallery.FindCarbyCarCode("BM1001");
+
+            if (wantedCar != null)
+            {
+                Console.WriteLine(wantedCar2.Name);
+            }
+            else
+            {
+                Console.WriteLine("There is no such car which meets CarCode requirement!");
+            }
+
+
+
+            Car[] wantedCars = gallery.FindCarsBySpeedInterval(10, 200);
+
+
+            if (wantedCars != null)
+            {
+                foreach (var car in wantedCars)
+                {
+                    Console.WriteLine(car.Name);
+                }
+            }
+            else
+            {
+                Console.WriteLine("There is no such car which meets speed interval requirements!");
+            }
+
+            
+
 
         }
     }
